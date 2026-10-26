@@ -39,4 +39,4 @@ The Movie Recommendation System is a Python-based web application developed usin
 This project uses TF-IDF Vectorization and Cosine Similarity to identify movies with similar genres and descriptions.
 
 ## Author
-Your Name
+Mansh
